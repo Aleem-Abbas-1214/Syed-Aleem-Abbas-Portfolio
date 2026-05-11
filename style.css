@@ -622,17 +622,17 @@ h3.my-profession{
     transition: all 0.3s ease;
 }
 
-.Certificate .Certificate-item .Certificate-item-inner .Certificate-icon .fa{
+.Certificate .Certificate-item .Certificate-item-inner .icon .fa{
     font-size: 48px;
     line-height: 60px;
     color: var(--skin-color);
 }
 
-.Certificate .Certificate-item .Certificate-item-inner:hover .Certificate-icon{
+.Certificate .Certificate-item .Certificate-item-inner:hover .icon{
     background-color: var(--skin-color);
 }
 
-.Certificate .Certificate-item .Certificate-item-inner:hover .Certificate-icon .fa{
+.Certificate .Certificate-item .Certificate-item-inner:hover .icon .fa{
     font-size: 25px;
     color: #ffffff;
 }

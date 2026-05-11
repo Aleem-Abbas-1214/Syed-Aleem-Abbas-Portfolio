@@ -787,6 +787,10 @@ h3.my-profession{
         height: 150px;
     }
 
+    .Certificate .row{
+       display: inline-flex;
+    }
+
     .portfolio-item .portfolio-item-inner{
         display: block;
     }
